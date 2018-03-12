@@ -1,0 +1,127 @@
+body {
+  padding-top: 50px;
+}
+html, body {
+	height:100%;
+	width: 100%;
+}
+html { overflow-y: hidden; }
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.infobar {
+	height: 100%;
+	background-color: #6d6f72;
+	padding: 0px;
+
+}
+
+.main{
+	height: 100%;
+
+}
+
+.container{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.row{
+	height: 100%;
+
+}
+
+.video{
+	height: 100%;
+	border: 5px solid #111111;
+	padding: 0px;
+}
+
+.videoframe{
+	height: 50%;
+
+}
+
+.display-as-table {display: table; width: 100%;}
+.display-as-table > div {display: table-cell; float: none;}
+
+table{
+   
+   height:100%;
+   width: 100%;
+}
+
+td {
+	background-color: #edbdbd;
+
+}
+
+.feed{
+	background-color: #c9d5e8;
+}
+
+.circle {
+  height: 100%;
+  width: 100%;
+  background-color: #555;
+  border-radius: 50%;
+  color: #dcdfe2;
+  padding: 15px;
+  font-size: xx-large;
+ }
+
+ .circle_use{
+
+ 	background-color: #7ca8ef;
+ }
+
+
+ .current_ID{
+ 	height: 13%;
+ 	width: 100%;
+ 	margin: 0px;
+ }
+
+.ID{
+	padding: 11px;
+	height: 100%;
+	width: 25%;
+}
+
+.infoheading{
+	height: 5%;
+	width: 100%;
+	background-color: #383a3d;
+	color: #a4a8ad;
+	padding-top: 10px;
+	margin: : 0px;
+}
+
+.togglebar{
+	height: 15%;
+	padding: 0px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.toggle{
+	padding: 0px;
+	margin: 0 auto;
+
+	 
+}
+
+.switchdiv{
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
+#proxswitch{
+	margin-bottom: 0px;
+}
